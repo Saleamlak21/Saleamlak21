@@ -33,7 +33,6 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://vitejs.dev/logo-with-shadow.png" />
-<img align="left" alt="java" width="30px"  src="https://cdn-icons-png.flaticon.com/512/136/136525.png" />
 <br />
 <br/>
 
