@@ -1,6 +1,6 @@
 # Saleamlak Ymer
 
-** `MERN stack Developer | Software Enginee` ** 
+**`MERN stack Developer | Software Enginee`** 
 
 <!--
 **Saleamlak21/Saleamlak21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
