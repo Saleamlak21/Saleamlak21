@@ -15,7 +15,7 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 - Exploring cloud technologies, especially AWS and Firebase.
 
 ### 👨‍💻 Tech Stack:
-<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="[https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png](https://www.google.com/search?sca_esv=601932989&rlz=1C1VDKB_enUS1053US1053&sxsrf=ACQVn0-pXpH3S7RrnGoyZtPx-FLtLqPDdw:1706331838464&q=react+icon+png&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwi-2eO45fyDAxU1EVkFHbpYA50Q0pQJegQIChAB&biw=1280&bih=585&dpr=1.5#imgrc=f2p3P2ku00KzOM)" />
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
