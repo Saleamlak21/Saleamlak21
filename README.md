@@ -16,9 +16,9 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 
 ### 👨‍💻 Tech Stack:
 - **Frontend:** 
-  - React ![React](https://img.icons8.com/plasticine/24/000000/react.png)
-  - HTML ![HTML](https://img.icons8.com/color/24/000000/html-5.png)
-  - CSS ![CSS](https://img.icons8.com/color/24/000000/css3.png)
+(https://img.icons8.com/plasticine/24/000000/react.png)
+  ![HTML](https://img.icons8.com/color/24/000000/html-5.png)
+ ![CSS](https://img.icons8.com/color/24/000000/css3.png)
   - JavaScript ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)
   - Bootstrap ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)
   - SASS ![SASS](https://img.icons8.com/color/24/000000/sass.png)
