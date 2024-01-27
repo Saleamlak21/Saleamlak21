@@ -24,7 +24,7 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
-
+<br/>
 ---
 
 
