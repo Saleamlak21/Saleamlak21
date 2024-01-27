@@ -1,6 +1,6 @@
 # Saleamlak Ymer
 
-##`MERN Stack Developer | Software Engineer`##
+## MERN Stack Developer | Software Engineer
 
 Welcome to my GitHub profile! I'm Saleamlak Ymer, a passionate MERN Stack Developer and Software Engineer. I love crafting solutions that make a positive impact and contribute to meaningful projects.
 
