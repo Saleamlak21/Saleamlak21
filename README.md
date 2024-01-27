@@ -18,20 +18,19 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 ![React](https://img.icons8.com/plasticine/24/000000/react.png)
   ![HTML](https://img.icons8.com/color/24/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/24/000000/css3.png)
-  - JavaScript ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)
-  - Bootstrap ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)
-  - SASS ![SASS](https://img.icons8.com/color/24/000000/sass.png)
-  - Tailwind ![Tailwind](https://img.icons8.com/color/24/000000/tailwind-css.png)
+ ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)
+![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)
+![SASS](https://img.icons8.com/color/24/000000/sass.png)
+ ![Tailwind](https://img.icons8.com/color/24/000000/tailwind-css.png)
   
-- **Backend:** 
-  - Node.js ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)
-  - Express.js ![Express.js](https://img.icons8.com/ios/24/000000/express.png)
+ ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)
+ ![Express.js](https://img.icons8.com/ios/24/000000/express.png)
   
-- **Database:** 
-  - MySQL ![MySQL](https://img.icons8.com/ios/24/000000/mysql-logo.png)
+
+![MySQL](https://img.icons8.com/ios/24/000000/mysql-logo.png)
   
-- **Other Technologies:** 
-  - Git ![Git](https://img.icons8.com/color/24/000000/git.png)
+
+ ![Git](https://img.icons8.com/color/24/000000/git.png)
   - RESTful APIs ![API](https://img.icons8.com/fluent/24/000000/api-settings.png)
 
 ### 🚀 Projects:
