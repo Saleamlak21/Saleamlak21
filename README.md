@@ -16,22 +16,19 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 
 ### 👨‍💻 Tech Stack:
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
-![React](https://img.icons8.com/plasticine/24/000000/react.png)
-  ![HTML](https://img.icons8.com/color/24/000000/html-5.png)
- ![CSS](https://img.icons8.com/color/24/000000/css3.png)
- ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)
-![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)
-![SASS](https://img.icons8.com/color/24/000000/sass.png)
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
+<img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" />
 
- ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)
- ![Express.js](https://img.icons8.com/ios/24/000000/express.png)
-  
+---
 
-![MySQL](https://img.icons8.com/ios/24/000000/mysql-logo.png)
-  
 
- ![Git](https://img.icons8.com/color/24/000000/git.png)
-  - RESTful APIs ![API](https://img.icons8.com/fluent/24/000000/api-settings.png)
+
 
 ### 🚀 Projects:
 - **[Abe Garage](https://www.abegarageexpress.com)** - Abegarage.com, a cutting-edge Garage Management System, leverages the MERN stack to optimize automotive service centers. With role-based access for Employees, Customers, and Admins, the system ensures a tailored and efficient user experience.
