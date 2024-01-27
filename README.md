@@ -2,9 +2,9 @@
 
 ## MERN Stack Developer | Software Engineer
 
-Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Software Engineer with a profound passion for building cutting-edge solutions. My journey in software development has been fueled by a commitment to creating impactful applications that not only address complex challenges but also contribute positively to the world.
+_Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Software Engineer with a profound passion for building cutting-edge solutions. My journey in software development has been fueled by a commitment to creating impactful applications that not only address complex challenges but also contribute positively to the world.
 
-_
+
 
 ### 🔭 Currently working on:
 - Building scalable and efficient web applications using the MERN stack.
