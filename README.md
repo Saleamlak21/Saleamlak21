@@ -13,10 +13,25 @@ Welcome to my GitHub profile! I'm Saleamlak Ymer, a passionate MERN Stack Develo
 - Exploring cloud technologies, especially AWS and Firebase.
 
 ### 👨‍💻 Tech Stack:
-- **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, SASS, Tailwind
-- **Backend:** Node.js, Express.js
-- **Database:** MySQL
-- **Other Technologies:** Git, RESTful APIs
+- **Frontend:** 
+  - React ![React](https://img.icons8.com/plasticine/24/000000/react.png)
+  - HTML ![HTML](https://img.icons8.com/color/24/000000/html-5.png)
+  - CSS ![CSS](https://img.icons8.com/color/24/000000/css3.png)
+  - JavaScript ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)
+  - Bootstrap ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png)
+  - SASS ![SASS](https://img.icons8.com/color/24/000000/sass.png)
+  - Tailwind ![Tailwind](https://img.icons8.com/color/24/000000/tailwind-css.png)
+  
+- **Backend:** 
+  - Node.js ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)
+  - Express.js ![Express.js](https://img.icons8.com/ios/24/000000/express.png)
+  
+- **Database:** 
+  - MySQL ![MySQL](https://img.icons8.com/ios/24/000000/mysql-logo.png)
+  
+- **Other Technologies:** 
+  - Git ![Git](https://img.icons8.com/color/24/000000/git.png)
+  - RESTful APIs ![API](https://img.icons8.com/fluent/24/000000/api-settings.png)
 
 ### 🚀 Projects:
 - **[Abe Garage](https://www.abegarageexpress.com)** - Abegarage.com, a cutting-edge Garage Management System, leverages the MERN stack to optimize automotive service centers. With role-based access for Employees, Customers, and Admins, the system ensures a tailored and efficient user experience.
@@ -28,4 +43,3 @@ Welcome to my GitHub profile! I'm Saleamlak Ymer, a passionate MERN Stack Develo
 - [Portfolio](https://saleamlakendrias.com/)
 
 ### 🤝 Open to collaborations and new opportunities. Feel free to reach out!
-
