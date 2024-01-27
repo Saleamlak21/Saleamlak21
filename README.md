@@ -15,7 +15,6 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 - Exploring cloud technologies, especially AWS and Firebase.
 
 ### 👨‍💻 Tech Stack:
-- **Frontend:** 
 ![React](https://img.icons8.com/plasticine/24/000000/react.png)
   ![HTML](https://img.icons8.com/color/24/000000/html-5.png)
  ![CSS](https://img.icons8.com/color/24/000000/css3.png)
