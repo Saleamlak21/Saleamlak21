@@ -22,12 +22,6 @@ Greetings! I'm Saleamlak Ymer, a highly motivated MERN Stack Developer and Softw
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br />
-<br/>
-
-___
-
 ### 🚀 Projects:
 - **[abegarageexpress.com](https://www.abegarageexpress.com)** - abegarageexpress.com, a cutting-edge Garage Management System, leverages the MERN stack to optimize automotive service centers. With role-based access for Employees, Customers, and Admins, the system ensures a tailored and efficient user experience.
 
